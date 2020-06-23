@@ -1,0 +1,2 @@
+This program is designed for begginners only! That is the reason behind its layout and the button design, menus, etc.
+The program is unfinished and it has some useless extra elements to fit all the requirements.
